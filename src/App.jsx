@@ -69,7 +69,7 @@ function App() {
 
     if (bubbleV.height > window.innerHeight / 2) {
       size = 1;
-    } else if (bubbleV.height < window.innerHeight / 8) {
+    } else if (bubbleV.height < window.innerHeight / 10) {
       size = 0;
     }
 
@@ -107,7 +107,7 @@ function App() {
           muted={true}
           data-reactid=".0.1.0.0"
           // controls
-          height={wHeight / 3}
+          height={wHeight / 8}
         >
           <source
             type="video/mp4"
@@ -123,7 +123,7 @@ function App() {
           top: window.innerHeight / 4,
           left: window.innerWidth / 2 - window.innerHeight / 4,
           // width: "100vw",
-          height: "50vh",
+          height: "40vh",
           padding: 0,
         }}
         src="/underC.png"
