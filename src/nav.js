@@ -160,7 +160,10 @@ const navBar = `<header>
                 Menu
               </a>
               <div class="dropdown-menu text-center text-lg-left" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pizza.html" id="pizzaMenuLabel">Pizza</a>
+                <a class="dropdown-item" href="pizza.html" id="pizzaMenuLabel">Pizza<a>
+                <script>
+                console.log('test')</script>
+                </a>
                 <a class="dropdown-item" id="coomingSoon" >Coming Soon</a>
                 <!--  <a class="dropdown-item" href="desserts.html">Desserts</a>
                 <a class="dropdown-item" href="drinks.html">Drinks</a> -->
