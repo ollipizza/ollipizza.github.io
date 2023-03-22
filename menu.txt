@@ -1,0 +1,649 @@
+Custom-Made Pizzas 定製披薩
+* Create your perfect pizza with exactly what you want on it, starting from small $170, normal $280 or jumbo $340. You may choose as many as toppings you'd like with +$30 each.
+
+* 選擇您想要的配料製作您的完美披薩。價格從小號170元、正常280元、或大號340元。您可以任意選擇更多的配料，每一項需另加30元。
+
+
+Choose 3 toppings for FREE. Adding additional toppings as many as you'd like with +$30 each:
+前三項配料免費！從第四或以上每一種配料需另外加$30.
+Chef’s special white cream
+主廚特調白醬
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Pork
+豬肉
+Bacon
+培根
+Chicken
+雞肉
+Mixed seafood
+綜合海鮮
+Sausage
+徳式香腸
+Cherry tomato
+小番茄
+Green salad
+沙拉菜
+Onion
+洋蔥
+Corn
+玉米
+Bell peppers
+甜椒
+Cherry tomato
+小番茄
+Mixed season veggies
+綜合時蔬
+Cabbage
+高麗菜
+Fresh basil
+羅勒葉
+Mushrooms
+蘑菇
+Potato
+馬鈴薯
+Pineapple
+鳳梨
+Jalapeño
+墨西哥辣椒
+
+
+After-baked pesto +$10
+主廚特製青醬 +$10
+Extra virgin olive oil +$10
+初榨橄欖油 +$10
+Crème fraiche +$10
+法式酸奶油 +$10
+Garlic oil +$10
+香蒜 +$10
+
+      FOCACCIA 佛卡夏
+Chef’s homemade pizza dough
+主廚手工現烤麵包
+Mozzarella cheese
+莫札瑞拉
+Garlic oil
+香蒜
+Extra virgin olive oil
+初榨橄欖油
+Rosemary 
+迷迭香
+Salt
+鹽
+
+
+SMALL
+NORMAL
+JUMBO
+150
+250
+300
+
+
+
+MARINARA 瑪麗娜拉
+Chef’s special salsa
+主廚特調紅醬
+Fresh basil
+羅勒葉
+Garlic oil
+香蒜
+Extra virgin olive oil
+初榨橄欖油
+Olives
+橄欖
+
+
+SMALL
+NORMAL
+JUMBO
+150
+250
+300
+
+
+
+MARGARITA 瑪格麗特 
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Cherry tomato
+小番茄
+Fresh basil
+羅勒葉
+Extra virgin olive oil
+初榨橄欖油
+Olives
+橄欖
+
+
+SMALL
+NORMAL
+JUMBO
+180
+280
+340
+
+
+
+VESUVIO 維蘇威
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Olives
+橄欖
+
+
+SMALL
+NORMAL
+JUMBO
+190
+290
+350
+
+
+
+CAPRICCIOSA 卡布里喬莎
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Mushrooms 
+蘑菇
+Olives
+橄欖
+
+
+SMALL
+NORMAL
+JUMBO
+200
+300
+360
+
+
+
+QUATTRO STAGIONI 四喜
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Mixed seafood
+綜合海鮮
+Chicken
+雞肉
+Mushrooms 
+蘑菇
+Bell peppers
+甜椒
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+
+HAWAIIAN 夏威夷
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Pineapple
+鳳梨
+
+
+SMALL
+NORMAL
+JUMBO
+200
+300
+360
+
+
+
+MEXICAN 墨西哥
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Corn
+玉米
+Red chili
+辣椒
+Jalapeño
+墨西哥辣椒
+Pork
+豬肉
+
+
+SMALL
+NORMAL
+JUMBO
+220
+320
+380
+
+
+
+
+CHICKEN 雞肉
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Chicken breast
+雞胸肉
+Green Salad
+沙拉菜
+Chef’s special pesto
+主廚特製青醬
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+PORK 豬肉
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Pork
+豬肉
+Mushrooms
+蘑菇
+Fresh basil
+羅勒葉
+Cherry tomato
+小番茄
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+BACON 培根
+Chef’s special white cream
+主廚特調白醬
+Mozzarella cheese
+莫札瑞拉
+Bacon
+培根
+Cabbage
+高麗菜
+Onion
+洋蔥
+Extra virgin olive oil
+初榨橄欖油
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+SEAFOOD 海鮮
+Chef’s special white cream
+主廚特調白醬
+Mascarpone
+馬斯卡彭起司
+Mozzarella cheese
+莫札瑞拉
+Cherry tomato
+小番茄
+Mixed seafood
+綜合海鮮
+Fresh basil
+羅勒葉
+Chef’s special pesto
+主廚特製青醬
+
+
+SMALL
+NORMAL
+JUMBO
+240
+340
+400
+
+
+
+VEGGIE素食
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Corn
+玉米
+Mixed season veggies
+綜合時蔬
+Olives
+橄欖
+
+
+SMALL
+NORMAL
+JUMBO
+220
+320
+380
+
+
+
+AMERICAN 美式
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Bacon
+培根
+Corn
+玉米
+Bell peppers
+甜椒
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+ITALIAN  PATATOSA 義式馬鈴薯
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Potato
+馬鈴薯
+Oregano
+奧勒岡
+
+
+SMALL
+NORMAL
+JUMBO
+220
+320
+380
+
+
+
+
+DANISH   KARTOFLER 丹式馬鈴薯
+Chef’s special white cream
+主廚特調白醬
+Mozzarella cheese
+莫札瑞拉
+Potato
+馬鈴薯
+Bacon
+培根
+Salt
+鹽
+Oregano
+奧勒岡
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+CHEF ’S – CROATIAN 克羅埃西亞
+Chef’s special pesto
+主廚特製青醬
+Mozzarella cheese
+莫札瑞拉
+Pork / Bacon
+豬肉/培根
+Mushrooms
+蘑菇
+
+
+SMALL
+NORMAL
+JUMBO
+230
+330
+390
+
+
+
+CALZONE (FOLDED PIZZA) 披薩餃
+Chef’s special salsa
+主廚特調紅醬
+Mozzarella cheese
+莫札瑞拉
+Ham
+火腿
+Crème fraiche
+法式酸奶油
+
+
+SMALL
+NORMAL
+220
+320
+
+
+
+NUTELLA 能多益巧克力
+Nutella chocolate
+能多益巧克力
+Dried berries
+乾莓果
+Peanut
+花生
+Brown sugar
+黑糖
+Chocolate syrup
+巧克力醬
+Mint
+薄荷
+
+
+SMALL
+NORMAL
+JUMBO
+220
+320
+380
+
+
+
+PANINI 帕尼尼
+Chef’s homemade fresh bread
+主廚手工現烤麵包
+Mozzarella cheese
+莫札瑞拉
+Ham / Chicken / Pork / Seafood
+火腿 / 雞肉 / 豬肉 / 海鮮
+Bell peppers
+甜椒
+Cherry tomato
+小番茄
+Green Salad
+沙拉菜
+Fresh mozzarella
+莫札瑞拉奶酪
+Chef’s special pesto
+主廚特製青醬
+
+
+1 PIECE
+2 PIECES
+3 PIECES
+200
+380
+550
+
+
+
+BRUSCHETTA 普切塔
+Chef’s homemade fresh bread
+主廚手工現烤麵包
+Cherry tomato
+小番茄
+Bell peppers
+甜椒
+Onion
+洋蔥
+Garlic oil
+香蒜
+Fresh mozzarella
+莫札瑞拉奶酪
+Chef’s special pesto
+主廚特製青醬
+
+
+1 PIECE
+2 PIECES
+3 PIECES
+120
+220
+320
+
+
+
+
+PASTA AL FORNO 烘培義大利麵
+
+AL PESTO 烤義大利麵條
+Spaghetti / Pasta
+義大利麵 / 通心粉
+Chef’s special pesto
+主廚特製青醬
+Garlic oil
+香蒜
+Cheese
+起司
+
+
+MILANESE 米蘭豬扒
+Spaghetti / Pasta
+義大利麵 / 通心粉
+Chef’s special salsa
+主廚特調紅醬
+Ham
+火腿
+Cheese
+起司
+Black pepper
+黑胡椒
+
+
+SEAFOOD 海鮮
+Spaghetti / Pasta
+義大利麵 / 通心粉
+Chef’s special white cream
+主廚特調白醬
+Mixed seafood
+綜合海鮮
+Cheese
+起司
+Garlic oil
+香蒜
+
+
+CHICKEN 雞肉
+Spaghetti / Pasta
+義大利麵 / 通心粉
+Chef’s special white cream
+主廚特調白醬
+Chicken breast
+雞胸肉
+Cheese
+起司
+Black pepper
+黑胡椒
+
+
+
+$190 / Portion
+一份 $190
+LASAGNA 香烤千層麵
+Lasagna Pasta
+千層麵
+Homemade Bolognese
+私藏番茄肉醬
+Béchamel sauce
+貝夏梅醬
+Mozzarella cheese
+莫札瑞拉
+
+
+1 PIECE
+2 PIECES
+3 PIECES
+300
+580
+860
+
+
+* Pre-order only
+* 需前一天預定
+
+
+CHICKEN SALAD 雞肉沙拉
+Green salad
+沙拉菜
+Cherry tomato
+小番茄
+Corn
+玉米
+Bell peppers
+甜椒
+Cabbage
+高麗菜
+Chicken breast
+雞胸肉
+Crème fraiche / Special pesto
+法式酸奶油 / 主廚特製青醬
+
+
+$190 / Portion
+一份 $190
+
+* Homemade fresh baked bread +$30.
+* 若需要手工現烤麵包 需另外加 30元。
+
