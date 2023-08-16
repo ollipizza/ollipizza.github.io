@@ -164,7 +164,7 @@ const navBar = `<header>
                 <script>
                 console.log('test')</script>
                 </a>
-                <a class="dropdown-item" id="coomingSoon" >Coming Soon</a>
+                <!--  <a class="dropdown-item" id="coomingSoon" >Coming Soon</a> -->
                 <!--  <a class="dropdown-item" href="desserts.html">Desserts</a>
                 <a class="dropdown-item" href="drinks.html">Drinks</a> -->
               </div>
