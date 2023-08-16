@@ -3,8 +3,8 @@
  */
 
  @font-face {
-  font-family: "chineseFont";
-  src: url("../font/Chinese Trad Taiwan Kai.ttf");
+  /* font-family: "chineseFont";
+  src: url("../font/Chinese Trad Taiwan Kai.ttf"); */
 }
 
 html {
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  /* font-family: 'Noto Serif TC', serif; */
+  font-family: 'Noto Serif TC', serif;
   font-family: "chineseFont";
   font-size: 1.5rem;
   color: #404040;
